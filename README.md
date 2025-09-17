@@ -61,9 +61,9 @@ The goal is to uncover customer perceptions, identify pain points, and generate 
 | Product     | Sentiment Distribution & Wordcloud |
 |------------|------------------------------------|
 | **Paneer** | <img width="461" height="332" alt="image" src="https://github.com/user-attachments/assets/c36a1ea3-393a-40dc-891f-c940c3ff2920" /> <img width="673" height="359" alt="image" src="https://github.com/user-attachments/assets/e9731cd7-ea35-44ff-821d-bbce89487484" /> |
-| **Mozzarella** | <img width="453" height="333" alt="image" src="https://github.com/user-attachments/assets/934b3024-501a-42ae-be7d-dcd07b5a72ad" /> <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/3675b416-4a66-4016-ad0f-4c28290885e1" /> |
-| **Curd** | <img width="453" height="332" alt="image" src="https://github.com/user-attachments/assets/a944821e-54e8-4794-9a34-fd2b1c7223ce" /> <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/70a2224d-ac31-46d2-a407-da2c15e58251" /> |
-| **Ghee** | <img width="452" height="330" alt="image" src="https://github.com/user-attachments/assets/23c8ef72-a682-4325-aacd-d050a4bda1d9" /> <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/8a31c982-412b-4614-996d-2c550a35a6ab" /> |
+| **Mozzarella** | <img width="453" height="333" alt="image" src="https://github.com/user-attachments/assets/934b3024-501a-42ae-be7d-dcd07b5a72ad" /> <img width="673" height="359" alt="image" src="https://github.com/user-attachments/assets/3675b416-4a66-4016-ad0f-4c28290885e1" /> |
+| **Curd** | <img width="453" height="332" alt="image" src="https://github.com/user-attachments/assets/a944821e-54e8-4794-9a34-fd2b1c7223ce" /> <img width="673" height="359" alt="image" src="https://github.com/user-attachments/assets/70a2224d-ac31-46d2-a407-da2c15e58251" /> |
+| **Ghee** | <img width="452" height="330" alt="image" src="https://github.com/user-attachments/assets/23c8ef72-a682-4325-aacd-d050a4bda1d9" /> <img width="673" height="359" alt="image" src="https://github.com/user-attachments/assets/8a31c982-412b-4614-996d-2c550a35a6ab" /> |
 
 
 ## Key Takeaways
