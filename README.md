@@ -59,10 +59,10 @@ The goal is to uncover customer perceptions, identify pain points, and generate 
 ## Visualizations
 | Product | Sentiment Distribution | Wordcloud |
 |--------|---------------------|-----------|
-| Paneer | ![Paneer Sentiment](results/paneer/sentiment_paneer.png) | ![Paneer Wordcloud](results/paneer/paneer_wordcloud.png) |
-| Mozzarella | ![Mozzarella Sentiment](results/mozzarella/sentiment_mozzarella.png) | ![Mozzarella Wordcloud](results/mozzarella/mozzarella_wordcloud.png) |
-| Curd | ![Curd Sentiment](results/curd/sentiment_curd.png) | ![Curd Wordcloud](results/curd/curd_wordcloud.png) |
-| Ghee | ![Ghee Sentiment](results/ghee/sentiment_ghee.png) | ![Ghee Wordcloud](results/ghee/ghee_wordcloud.png) |
+| Paneer | <img width="461" height="332" alt="image" src="https://github.com/user-attachments/assets/c36a1ea3-393a-40dc-891f-c940c3ff2920" />| | <img width="675" height="363" alt="image" src="https://github.com/user-attachments/assets/3e5864d2-ee22-4877-8bb6-0dc6e32bb129" />|
+| Mozzarella | <img width="453" height="333" alt="image" src="https://github.com/user-attachments/assets/934b3024-501a-42ae-be7d-dcd07b5a72ad" />| | <img width="679" height="366" alt="image" src="https://github.com/user-attachments/assets/3675b416-4a66-4016-ad0f-4c28290885e1" />|
+| Curd | <img width="453" height="332" alt="image" src="https://github.com/user-attachments/assets/a944821e-54e8-4794-9a34-fd2b1c7223ce" />| | <img width="670" height="360" alt="image" src="https://github.com/user-attachments/assets/70a2224d-ac31-46d2-a407-da2c15e58251" />|
+| Ghee | <img width="452" height="330" alt="image" src="https://github.com/user-attachments/assets/23c8ef72-a682-4325-aacd-d050a4bda1d9" />| | <img width="672" height="359" alt="image" src="https://github.com/user-attachments/assets/8a31c982-412b-4614-996d-2c550a35a6ab" />|
 
 ---
 
